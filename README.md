@@ -3,8 +3,8 @@ Student of IT at the Technical School Bento Quirino. I am 16 years old, I love s
 
 <div>
   <a href="https://github.com/joaorromano">
-  <img  height=190 width=400 src="https://github-readme-stats.vercel.app/api?username=joaorromano&show_icons=true&theme=highcontrast&card_width=">
-  <img height=190 width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorromano&layout=compact&theme=highcontrast">
+  <img  height=190 width=400 src="https://github-readme-stats.vercel.app/api?username=joaorromano19&show_icons=true&theme=highcontrast&card_width=">
+  <img height=190 width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorromano19&layout=compact&theme=highcontrast">
 </div>
   
 
