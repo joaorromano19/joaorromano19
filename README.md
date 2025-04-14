@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm João Romano 👋
+Student of IT at the Technical School Bento Quirino. I am 16 years old, I love studying technology. I want to learn more and more to have a great future as a programmer. 😎
 
-<!--
-**joaorromano19/joaorromano19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/joaorromano">
+  <img  height=190 width=400 src="https://github-readme-stats.vercel.app/api?username=joaorromano&show_icons=true&theme=highcontrast&card_width=">
+  <img height=190 width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorromano&layout=compact&theme=highcontrast">
+</div>
+  
 
-Here are some ideas to get you started:
+### Technologies I'm learning:
+<div>
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png">
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/732/732190.png">
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/174/174854.png">
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png">
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png">
+  <img height=35 src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact:
+<div>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxjQCVDNQBmThMlHKmCRVPWmcjMqFFMbtWpWlPjZxBDlRMNGSSxFhBxxClFKcgpkpxMdGV">  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/joao__romano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
