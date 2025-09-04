@@ -1,5 +1,5 @@
 # Hi there, I'm João Romano 👋
-Student of IT at the Technical School Bento Quirino. I am 16 years old, I love studying technology. I want to learn more and more to have a great future as a programmer. 😎
+Student of IT at the Technical School Bento Quirino. I am 17 years old, I love studying technology. I want to learn more and more to have a great future as a programmer. 😎
 
 <div>
   <a href="https://github.com/joaorromano">
