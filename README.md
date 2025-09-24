@@ -17,6 +17,7 @@ Student of IT at the Technical School Bento Quirino. I am 17 years old, I love s
   <img height=35 src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png">
   <img height=35 src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png">
   <img height=35 src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png">
+  <img height=35 src="https://www.flaticon.com/free-icon/java_5968282?term=java&page=1&position=2&origin=search&related_id=5968282)">
 </div>
 
 ### Contact:
